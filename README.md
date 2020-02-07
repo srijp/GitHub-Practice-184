@@ -56,6 +56,7 @@
 | Hyunwoo Kim  | Section 002 | hyunwoo312 | <https://hyun.app> |
 | Evelyn Murray  | Section 002 | evelynmurray28 | <https://github.com/STAT184002/week4-evelynmurray28.git> |
 | Joseph Pevner  | Section 002 | josephpevner | <https://github.com/josephpevner/josephpevner-STAT184.git> |
+| Srija Pinnamaneni | Section 002 | srijp  | <https://srijp.github.io/Assignment1/> |
 # Integration of RStudio with Git
 
 - Simplified instructions: [Data Computing eBook--Appendix: Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
